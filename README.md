@@ -1,6 +1,6 @@
-# 🏎️ Formula 1 Analytics Dashboard
+#  Formula 1 Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The Formula 1 Analytics Dashboard is an end-to-end Data Analytics project developed using **SQL, Python, and Power BI** to analyze Formula 1 historical racing data.
 
@@ -8,7 +8,7 @@ The project focuses on extracting meaningful business insights from multiple For
 
 ---
 
-# 🚀 Project Objectives
+#  Project Objectives
 
 - Analyze Formula 1 historical race performance.
 - Identify top-performing drivers and constructors.
@@ -18,7 +18,7 @@ The project focuses on extracting meaningful business insights from multiple For
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 - SQL (MySQL)
 - Python
@@ -34,7 +34,7 @@ The project focuses on extracting meaningful business insights from multiple For
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Formula1_Analytics
@@ -67,7 +67,7 @@ Formula1_Analytics
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 The project uses multiple Formula 1 datasets including:
 
@@ -88,7 +88,7 @@ The project uses multiple Formula 1 datasets including:
 
 ---
 
-# 🗄 SQL Analysis
+#  SQL Analysis
 
 ### Data Validation
 
@@ -122,7 +122,7 @@ The project uses multiple Formula 1 datasets including:
 
 ---
 
-# 🐍 Python Analysis
+#  Python Analysis
 
 Python was used for:
 
@@ -157,11 +157,11 @@ Python was used for:
 
 ---
 
-# 📈 Power BI Dashboard
+#  Power BI Dashboard
 
 The dashboard consists of four interactive pages.
 
-## 1️⃣ Executive Overview
+## 1️ Executive Overview
 
 - Total Drivers
 - Total Constructors
@@ -174,7 +174,7 @@ The dashboard consists of four interactive pages.
 
 ---
 
-## 2️⃣ Driver Performance
+## 2️ Driver Performance
 
 - Driver Wins
 - Driver Points
@@ -187,7 +187,7 @@ The dashboard consists of four interactive pages.
 
 ---
 
-## 3️⃣ Constructor Performance
+## 3️ Constructor Performance
 
 - Constructor Wins
 - Constructor Points
@@ -199,7 +199,7 @@ The dashboard consists of four interactive pages.
 
 ---
 
-## 4️⃣ Races & Circuits
+## 4️ Races & Circuits
 
 - Total Circuits
 - Race Status
@@ -211,7 +211,7 @@ The dashboard consists of four interactive pages.
 
 ---
 
-# 📷 Dashboard Screenshots
+#  Dashboard Screenshots
 
 ## Executive Overview
 
@@ -237,7 +237,7 @@ The dashboard consists of four interactive pages.
 
 ---
 
-# 📈 Key Insights
+#  Key Insights
 
 - Lewis Hamilton and Max Verstappen consistently rank among the highest-performing drivers.
 - Ferrari, Mercedes, and Red Bull dominate constructor performance.
@@ -250,7 +250,7 @@ The dashboard consists of four interactive pages.
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
 ## Clone Repository
 
@@ -288,7 +288,7 @@ using Microsoft Power BI Desktop.
 
 ---
 
-# 📌 Project Highlights
+#  Project Highlights
 
 - End-to-End Data Analytics Project
 - SQL Data Validation
@@ -300,7 +300,7 @@ using Microsoft Power BI Desktop.
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Haritha Vaddi**
 
